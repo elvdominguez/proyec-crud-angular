@@ -1,0 +1,45 @@
+{
+    "productos": [
+        {
+            "nombre": "refresco",
+            "precio": "12",
+            "Lugar": "CDMX",
+            "Num-Tel": " 7121099876",
+            "id": 0
+        },
+        {
+            "nombre": "agua",
+            "precio": "12",
+            "Lugar": "MTR",
+            "Num-Tel": " 7121099876",
+            "id": 1
+        },
+        {
+            "nombre": "Chetos",
+            "precio": "12",
+            "Lugar": "EDO MEX",
+            "Num-Tel": " 7121099876",
+            "id": 2
+        },
+        {
+            "nombre": "Paleta",
+            "precio": "2",
+            "Lugar": "GJT",
+            "Num-Tel": " 7121099876",
+            "id": 3
+        },
+        {
+            "nombre": "Caguama",
+            "precio": "30",
+            "Lugar": "CDMX",
+            "Num-Tel": " 7121099876",
+            "id": 4
+        },
+        { "nombre": "Vino",
+            "precio": "120",
+            "Lugar": "CDMX",
+            "Num-Tel": " 7121099876",
+            "id": 5
+        }
+    ]
+}
